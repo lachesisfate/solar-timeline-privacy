@@ -1,0 +1,145 @@
+{
+  "schemaVersion": 1,
+  "revision": 1,
+  "updatedAt": "2026-11-04T05:17:23Z",
+  "videos": [
+    {
+      "id": "sun",
+      "youtubeId": "TYoSocGzAAM",
+      "titles": {
+        "ja": "太陽は燃えていない"
+      },
+      "language": "ja",
+      "events": [
+        6
+      ],
+      "planets": [],
+      "order": 0,
+      "enabled": true,
+      "publishAt": null,
+      "publicConfirmed": true,
+      "confirmedAt": "2026-11-04T05:17:23Z"
+    },
+    {
+      "id": "pluto",
+      "youtubeId": "4u162qGD4qM",
+      "titles": {
+        "ja": "冥王星を殺した男"
+      },
+      "language": "ja",
+      "events": [],
+      "planets": [
+        7
+      ],
+      "order": 1,
+      "enabled": true,
+      "publishAt": null,
+      "publicConfirmed": true,
+      "confirmedAt": "2026-11-04T05:17:23Z"
+    },
+    {
+      "id": "wr",
+      "youtubeId": "nr6TLK-9diI",
+      "titles": {
+        "ja": "ウォルフライエ星"
+      },
+      "language": "ja",
+      "events": [
+        12
+      ],
+      "planets": [],
+      "order": 2,
+      "enabled": true,
+      "publishAt": null,
+      "publicConfirmed": true,
+      "confirmedAt": "2026-11-04T05:17:23Z"
+    },
+    {
+      "id": "bh",
+      "youtubeId": "N0YCn_Nce-4",
+      "titles": {
+        "ja": "ブラックホールから生まれた理論"
+      },
+      "language": "ja",
+      "events": [
+        14
+      ],
+      "planets": [],
+      "order": 3,
+      "enabled": true,
+      "publishAt": null,
+      "publicConfirmed": true,
+      "confirmedAt": "2026-11-04T05:17:23Z"
+    },
+    {
+      "id": "dyson",
+      "youtubeId": "naXBu406kCQ",
+      "titles": {
+        "ja": "ダイソン球"
+      },
+      "language": "ja",
+      "events": [
+        6
+      ],
+      "planets": [],
+      "order": 4,
+      "enabled": true,
+      "publishAt": null,
+      "publicConfirmed": true,
+      "confirmedAt": "2026-11-04T05:17:23Z"
+    },
+    {
+      "id": "early",
+      "youtubeId": "P7ivdiSe84g",
+      "titles": {
+        "ja": "原始太陽系"
+      },
+      "language": "ja",
+      "events": [
+        0,
+        1,
+        2
+      ],
+      "planets": [],
+      "order": 5,
+      "enabled": true,
+      "publishAt": null,
+      "publicConfirmed": true,
+      "confirmedAt": "2026-11-04T05:17:23Z"
+    },
+    {
+      "id": "rings",
+      "youtubeId": "FKnKiIAYZsg",
+      "titles": {
+        "ja": "土星の環"
+      },
+      "language": "ja",
+      "events": [],
+      "planets": [
+        5
+      ],
+      "order": 6,
+      "enabled": true,
+      "publishAt": null,
+      "publicConfirmed": true,
+      "confirmedAt": "2026-11-04T05:17:23Z"
+    },
+    {
+      "id": "runaway",
+      "youtubeId": "dQoYIa8kKm0",
+      "titles": {
+        "ja": "銀河を飛び出す星"
+      },
+      "language": "ja",
+      "events": [
+        6
+      ],
+      "planets": [],
+      "order": 7,
+      "enabled": true,
+      "publishAt": "2026-11-06T10:15:00Z",
+      "publicConfirmed": false,
+      "confirmedAt": null
+    }
+  ]
+}
